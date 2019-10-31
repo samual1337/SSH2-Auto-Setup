@@ -5,7 +5,7 @@
 # Credits ( @SlippersYo x @dirtystress )
 import os
 import time
-important = '437265617465642042792040736c697070657273796f20782040637269746963616c73656375726974792e746f2021'.decode('hex')
+important = '437265617465642042792040736c697070657273796f2078204064697274797374726573732021'.decode('hex')
 apidl = 'https://raw.githubusercontent.com/samual1337/DDOS-API/master/api.php'
 os.system('wget '+apidl+'')
 discord = '68747470733a2f2f646973636f72642e67672f6a393634585975'.decode('hex')
